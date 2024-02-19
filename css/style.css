@@ -11,4 +11,23 @@ header > * {
     color: white;
 }
 
-/* Add more specific styles for the icons and layout */
+/* style.css */
+#user-profile {
+    background-color: #1a1a1a;
+    padding: 20px;
+    color: white;
+}
+
+.user-avatar img {
+    width: 100px;
+    height: auto;
+    border-radius: 50%;
+}
+
+.username {
+    font-size: 1.5em;
+}
+
+.user-status {
+    color: #4CAF50; /* Online status color */
+}
