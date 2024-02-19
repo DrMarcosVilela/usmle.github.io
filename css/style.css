@@ -31,3 +31,30 @@ header > * {
 .user-status {
     color: #4CAF50; /* Online status color */
 }
+/* style.css */
+#whats-new {
+    margin: 20px;
+}
+
+.activity {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15
+px;
+}
+
+.activity img {
+width: 60px;
+height: auto;
+margin-right: 10px;
+}
+
+.activity-info h3 {
+font-size: 1em;
+color: white;
+}
+
+.activity-info time {
+font-size: 0.8em;
+color: #888;
+}
